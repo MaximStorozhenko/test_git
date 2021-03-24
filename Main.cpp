@@ -3,6 +3,6 @@ using namespace std;
 
 int main()
 {
-	cout << "Версия 2";
-	cout << "Проверка";
+	cout << "Версия 3";
+	cout << "Проверка 2";
 }
