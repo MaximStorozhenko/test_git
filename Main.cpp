@@ -3,7 +3,5 @@ using namespace std;
 
 int main()
 {
-	cout << "Версия 10";
-
-	cout << "Другая ветка2";
+	cout << "Версия 15";
 }
